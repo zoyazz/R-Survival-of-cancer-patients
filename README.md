@@ -1,4 +1,4 @@
-# R-Survival-of-cancer-patients
+# R-Survival-Analysis: Cancer Patients
 This project demonstrates how to analyze missing data about cancer patients using survival analysis techniques. It involves data cleaning, formatting, and modeling to examine various factors and determine which are significantly correlated with the chances of survival.
 
 Steps:
